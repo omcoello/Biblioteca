@@ -1,0 +1,6 @@
+codigo,titulo,autor,cantidad
+1,Zemansky,Goethe,25
+2,Purcell,Sade,40
+3,Estadistica,Shelley,30
+4,Matematicas,Dickens,30
+5,Quimica,Melville,40
